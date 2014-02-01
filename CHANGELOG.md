@@ -1,3 +1,8 @@
+2014-02-02
+----------
+* Added semi-colons
+* Updated anonymous function spaces
+
 2013-05-15
 ----------
 * removed block comment
