@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[afterEach(function(){
+  ${0:// body...}
+});
+]]></content>
+    <tabTrigger>aes</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD afterEach synchronous</description>
+</snippet>
