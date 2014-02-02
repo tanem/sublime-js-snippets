@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[beforeEach(function(){
+  ${0:// body...}
+});
+]]></content>
+    <tabTrigger>bes</tabTrigger>
+    <scope>source.js</scope>
+    <description>BDD beforeEach synchronous</description>
+</snippet>
