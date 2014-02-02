@@ -2,6 +2,7 @@
 ----------
 * Added semi-colons
 * Updated anonymous function spaces
+* Added **[itp]**
 
 2013-05-15
 ----------
